@@ -1,0 +1,422 @@
+{
+"KCD Brooklyn | Fawn": {
+"hex": "#b9a58c",
+"mat": "paint",
+"door": "shaker"
+},
+"KCD Brooklyn | Gray": {
+"hex": "#9a9c9a",
+"mat": "paint",
+"door": "shaker"
+},
+"KCD Brooklyn | Midnight": {
+"hex": "#2c3446",
+"mat": "paint",
+"door": "shaker"
+},
+"KCD Essential | White": {
+"hex": "#f1efe9",
+"mat": "paint",
+"door": "shaker"
+},
+"KCD Essential | Gray": {
+"hex": "#a8a9a6",
+"mat": "paint",
+"door": "shaker"
+},
+"KCD Oslo | Classic Walnut": {
+"hex": "#6b4a32",
+"mat": "wood",
+"door": "slab"
+},
+"KCD Oslo | Oak": {
+"hex": "#b48a5c",
+"mat": "wood",
+"door": "slab"
+},
+"KCD Oslo | White": {
+"hex": "#f3f2ee",
+"mat": "paint",
+"door": "slab"
+},
+"KCD Shaker | Kodiak": {
+"hex": "#4a3f37",
+"mat": "wood",
+"door": "shaker"
+},
+"KCD Shaker | Moss": {
+"hex": "#7d8467",
+"mat": "paint",
+"door": "shaker"
+},
+"KCD Shaker | Sand": {
+"hex": "#d8ccb6",
+"mat": "paint",
+"door": "shaker"
+},
+"Modernform Shaker | White": {
+"hex": "#f4f3ef",
+"mat": "paint",
+"door": "shaker"
+},
+"Modernform Shaker | Slate": {
+"hex": "#6f7478",
+"mat": "paint",
+"door": "shaker"
+},
+"Modernform Shaker | Onyx Black": {
+"hex": "#1f1f20",
+"mat": "paint",
+"door": "shaker"
+},
+"Modernform Shaker | Natural": {
+"hex": "#c09a6b",
+"mat": "wood",
+"door": "shaker"
+},
+"Modernform Shaker | Espresso": {
+"hex": "#3b2a22",
+"mat": "wood",
+"door": "shaker"
+},
+"Modernform Shaker | Grey": {
+"hex": "#9d9f9e",
+"mat": "paint",
+"door": "shaker"
+},
+"Modernform Shaker | Signature Blue": {
+"hex": "#2f4a66",
+"mat": "paint",
+"door": "shaker"
+},
+"Modernform Slim Shaker | Dove White": {
+"hex": "#eeebe3",
+"mat": "paint",
+"door": "slim_shaker"
+},
+"Modernform Slim Shaker | Sage Green": {
+"hex": "#9aa58d",
+"mat": "paint",
+"door": "slim_shaker"
+},
+"Modernform European | Matte White": {
+"hex": "#f2f2f0",
+"mat": "paint",
+"door": "slab"
+},
+"Modernform European | Gloss White": {
+"hex": "#f7f7f5",
+"mat": "gloss",
+"door": "slab"
+},
+"Modernform European | Natural Oak": {
+"hex": "#b8946a",
+"mat": "wood",
+"door": "slab"
+},
+"Modernform European | Walnut": {
+"hex": "#5e4030",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood Allure | Galaxy Mocha": {
+"hex": "#5a4334",
+"mat": "wood",
+"door": "shaker"
+},
+"Fabuwood Allure | Galaxy Frost": {
+"hex": "#f3f2ee",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Allure | Galaxy Truffle": {
+"hex": "#8c7b6b",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Allure | Galaxy Cobblestone": {
+"hex": "#8e9091",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Allure | Galaxy Horizon": {
+"hex": "#2e3e52",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Allure | Galaxy Linen": {
+"hex": "#e9e2d2",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Allure | Fusion Kona": {
+"hex": "#4b382b",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood Allure | Luna Indigo": {
+"hex": "#2b3550",
+"mat": "paint",
+"door": "slab"
+},
+"Fabuwood Quest | Discovery Frost": {
+"hex": "#f2f1ed",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Quest | Metro Java": {
+"hex": "#4a3529",
+"mat": "wood",
+"door": "slim_shaker"
+},
+"Fabuwood Quest | Metro Frost": {
+"hex": "#f2f1ed",
+"mat": "paint",
+"door": "slim_shaker"
+},
+"Fabuwood Quest | Metro Mist": {
+"hex": "#c9cbc8",
+"mat": "paint",
+"door": "slim_shaker"
+},
+"Fabuwood Value Premium | Hallmark Frost": {
+"hex": "#f2f1ed",
+"mat": "paint",
+"door": "shaker"
+},
+"Fabuwood Ovela | Como Ash 2": {
+"hex": "#a59c8f",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood Ovela | Nocce 3": {
+"hex": "#7b5a42",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood Ovela | Olmo 3": {
+"hex": "#9b7b5a",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood Ovela | Muratti 1": {
+"hex": "#c8b9a3",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood illume | Como Ash 2": {
+"hex": "#a59c8f",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood illume | Nocce 3": {
+"hex": "#7b5a42",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood illume | Olmo 3": {
+"hex": "#9b7b5a",
+"mat": "wood",
+"door": "slab"
+},
+"Fabuwood illume | Muratti 1": {
+"hex": "#c8b9a3",
+"mat": "wood",
+"door": "slab"
+},
+"J&K | Java Coffee S1": {
+"hex": "#3d2b22",
+"mat": "wood",
+"door": "shaker"
+},
+"J&K | Castle Grey S5": {
+"hex": "#8a8d8f",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | White Shaker S8": {
+"hex": "#f3f2ee",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | Charcoal E2": {
+"hex": "#3e4144",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | Sage E3": {
+"hex": "#9ea38c",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | Pearl Glazed H9": {
+"hex": "#ece6d8",
+"mat": "glazed",
+"door": "shaker"
+},
+"J&K | Espresso K8": {
+"hex": "#3a2a22",
+"mat": "wood",
+"door": "shaker"
+},
+"J&K | Greige K3": {
+"hex": "#b8ad9c",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | Dove E1": {
+"hex": "#ebe8e0",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | Hazel H8": {
+"hex": "#8a6646",
+"mat": "wood",
+"door": "shaker"
+},
+"J&K | Pebble B6": {
+"hex": "#b9b6ae",
+"mat": "paint",
+"door": "shaker"
+},
+"J&K | Creme Glazed A7": {
+"hex": "#e8dcc2",
+"mat": "glazed",
+"door": "raised"
+},
+"Wolf Classic | Grantley Sandalwood": {
+"hex": "#8d6a48",
+"mat": "wood",
+"door": "raised"
+},
+"Wolf Classic | Dartmouth Biscayne": {
+"hex": "#4e6a80",
+"mat": "paint",
+"door": "shaker"
+},
+"Wolf Classic | Dartmouth Stonybrook": {
+"hex": "#b8b6ad",
+"mat": "paint",
+"door": "shaker"
+},
+"Wolf Classic | Dartmouth Pewter": {
+"hex": "#8b8d8c",
+"mat": "paint",
+"door": "shaker"
+},
+"Wolf Classic | Dartmouth Bayside": {
+"hex": "#3a4a5c",
+"mat": "paint",
+"door": "shaker"
+},
+"Wolf Classic | Dartmouth White": {
+"hex": "#f2f0ea",
+"mat": "paint",
+"door": "shaker"
+},
+"Wolf Classic | Dartmouth Dark Sable": {
+"hex": "#3c2e26",
+"mat": "wood",
+"door": "shaker"
+},
+"Wolf Classic | Dartmouth Brownstone": {
+"hex": "#6a4f3b",
+"mat": "wood",
+"door": "shaker"
+},
+"CNC Luxor | Espresso": {
+"hex": "#3a2a22",
+"mat": "wood",
+"door": "shaker"
+},
+"CNC Luxor | Harvest": {
+"hex": "#a87a4c",
+"mat": "wood",
+"door": "shaker"
+},
+"CNC Luxor | Misty Grey": {
+"hex": "#b2b4b3",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Luxor | Smoky Grey": {
+"hex": "#6e7072",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Country | Oak Honey": {
+"hex": "#b98648",
+"mat": "wood",
+"door": "raised"
+},
+"CNC Concord | White": {
+"hex": "#f2f1ee",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Concord | Ocean": {
+"hex": "#3c5268",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Concord | Stone": {
+"hex": "#a39e93",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Concord | Smoky Grey": {
+"hex": "#6e7072",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Classic | Versailles White": {
+"hex": "#f1efe8",
+"mat": "paint",
+"door": "raised"
+},
+"CNC Classic | Highland White": {
+"hex": "#f2f0ea",
+"mat": "paint",
+"door": "shaker"
+},
+"CNC Classic | Broadway Silk": {
+"hex": "#d9d7d1",
+"mat": "paint",
+"door": "shaker"
+},
+"RTA | Alpina White": {
+"hex": "#f2f1ed",
+"mat": "paint",
+"door": "shaker"
+},
+"RTA | Colonial Gray": {
+"hex": "#9b9b98",
+"mat": "paint",
+"door": "shaker"
+},
+"RTA | Shaker Toffee": {
+"hex": "#8a6240",
+"mat": "wood",
+"door": "shaker"
+},
+"RTA | Milan Pearl": {
+"hex": "#e6e2da",
+"mat": "gloss",
+"door": "slab"
+},
+"RTA | Milan Slate": {
+"hex": "#5f6368",
+"mat": "paint",
+"door": "slab"
+},
+"RTA | Danbury Blue": {
+"hex": "#33465c",
+"mat": "paint",
+"door": "shaker"
+},
+"RTA | Newport": {
+"hex": "#ece9e1",
+"mat": "paint",
+"door": "shaker"
+}
+}

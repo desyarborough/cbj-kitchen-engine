@@ -1,0 +1,256 @@
+{
+ "project": {
+  "client": "Sample Kitchen",
+  "address": "",
+  "designer": "Cabinets by Johnny",
+  "concept": "Midnight Island, Bright Perimeter"
+ },
+ "finish": {
+  "line": "KCD Essential",
+  "color": "White",
+  "door_style": null,
+  "island_color": "Midnight",
+  "hardware": "brushed brass pulls",
+  "countertop": "white quartz",
+  "backsplash": "white subway tile",
+  "floor": "light oak",
+  "island_line": "KCD Brooklyn"
+ },
+ "room": {
+  "ceiling": 96,
+  "wall_thickness": 4.5,
+  "vertices": [
+   [
+    0,
+    0
+   ],
+   [
+    132,
+    0
+   ],
+   [
+    132,
+    161
+   ],
+   [
+    0,
+    161
+   ]
+  ],
+  "open_edges": [
+   2
+  ],
+  "openings": [
+   {
+    "edge": 0,
+    "type": "door",
+    "offset": 66,
+    "width": 36,
+    "height": 80
+   }
+  ]
+ },
+ "runs": [
+  {
+   "edge": 0,
+   "items": [
+    {
+     "code": "F1.5",
+     "kind": "filler",
+     "w": 1.5,
+     "h": 96
+    },
+    {
+     "code": "GNE29GSHSS",
+     "kind": "fridge",
+     "w": 36
+    },
+    {
+     "code": "REP9624",
+     "kind": "panel",
+     "w": 0.75,
+     "d": 24,
+     "h": 96
+    },
+    {
+     "code": "B24",
+     "kind": "base",
+     "w": 24
+    },
+    {
+     "code": "W2436",
+     "kind": "wall",
+     "w": 24,
+     "h": 36,
+     "offset": 38.25,
+     "top": 90
+    },
+    {
+     "code": "W361824",
+     "kind": "wall",
+     "w": 36,
+     "h": 18,
+     "d": 24,
+     "offset": 1.5,
+     "top": 90
+    }
+   ]
+  },
+  {
+   "edge": 1,
+   "items": [
+    {
+     "code": "F3",
+     "kind": "filler",
+     "w": 3
+    },
+    {
+     "code": "B30 BUTT",
+     "kind": "base",
+     "w": 30
+    },
+    {
+     "code": "B30 BUTT",
+     "kind": "base",
+     "w": 30
+    },
+    {
+     "code": "DB30 2DWR",
+     "kind": "drawer_base",
+     "w": 30,
+     "drawers": 2
+    },
+    {
+     "code": "CS980ST SS",
+     "kind": "range",
+     "w": 30
+    },
+    {
+     "code": "DB18",
+     "kind": "drawer_base",
+     "w": 18
+    },
+    {
+     "code": "B18L",
+     "kind": "base",
+     "w": 18,
+     "hinge": "L"
+    },
+    {
+     "code": "F2",
+     "kind": "filler",
+     "w": 2
+    },
+    {
+     "code": "UF342",
+     "kind": "wall_filler",
+     "w": 3,
+     "h": 36,
+     "offset": 0,
+     "top": 90
+    },
+    {
+     "code": "W3036 BUTT",
+     "kind": "wall",
+     "w": 30,
+     "h": 36,
+     "top": 90,
+     "offset": 3
+    },
+    {
+     "code": "W3036 BUTT",
+     "kind": "wall",
+     "w": 30,
+     "h": 36,
+     "top": 90
+    },
+    {
+     "code": "W3036 BUTT",
+     "kind": "wall",
+     "w": 30,
+     "h": 36,
+     "top": 90
+    },
+    {
+     "code": "OTR Microwave",
+     "kind": "microwave",
+     "w": 30,
+     "h": 17,
+     "top": 72
+    },
+    {
+     "code": "W3018 BUTT",
+     "kind": "wall",
+     "w": 30,
+     "h": 18,
+     "top": 90,
+     "offset": 93
+    },
+    {
+     "code": "W3636 BUTT",
+     "kind": "wall",
+     "w": 36,
+     "h": 36,
+     "top": 90
+    }
+   ]
+  }
+ ],
+ "islands": [
+  {
+   "origin": [
+    30,
+    156
+   ],
+   "direction": [
+    0,
+    -1
+   ],
+   "front": [
+    1,
+    0
+   ],
+   "depth": 24,
+   "overhang_back": 1.5,
+   "items": [
+    {
+     "code": "END3",
+     "kind": "filler",
+     "w": 3
+    },
+    {
+     "code": "GSD4060DWR",
+     "kind": "dishwasher",
+     "w": 24
+    },
+    {
+     "code": "SB36",
+     "kind": "sink_base",
+     "w": 36,
+     "sink": "double"
+    },
+    {
+     "code": "BWBB21-2",
+     "kind": "wastebasket",
+     "w": 21
+    }
+   ]
+  }
+ ],
+ "render": {
+  "camera": {
+   "pos": [
+    8,
+    232,
+    60
+   ],
+   "target": [
+    118,
+    40,
+    38
+   ],
+   "lens": 24
+  },
+  "pendants": true
+ }
+}
